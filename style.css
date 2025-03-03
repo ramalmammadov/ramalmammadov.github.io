@@ -11,7 +11,7 @@ body {
 #ramal {
     font-size: 10vw; 
     display: flex;
-    gap: 1vw; 
+    gap: 10vw; 
 }
 
 #ramal span {
